@@ -5,7 +5,6 @@ This project applies Elephant Herding Optimization (EHO) and Water Cycle Algorit
 ## Project Structure
 - `TSP.py`: Main script for running EHO and WCA.
 - `requirements.txt`: Python dependencies.
-- `results/`: Folder containing output images or metrics.
 
 ## How to Run
 
