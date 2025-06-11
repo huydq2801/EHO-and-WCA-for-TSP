@@ -298,8 +298,8 @@ if __name__ == "__main__":
 
     # --- Cài đặt các tham số khác ---
     NUM_CITIES = num_cities_input
-    NUM_RUNS = 10
-    NUM_GENERATIONS = 200
+    NUM_RUNS = 5
+    NUM_GENERATIONS = 500
 
     print(f"\nBắt đầu so sánh các thuật toán cho {NUM_CITIES} thành phố.")
     print(f"Mỗi thuật toán sẽ được chạy {NUM_RUNS} lần.\n")
